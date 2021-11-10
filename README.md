@@ -1,2 +1,5 @@
-# jwt_node
-JWT token base authentication for Apis and fast CRUD operations Apis
+## Introduction
+
+Demonstrates how multi JWT token autheticcation works in node.js with express. Also included CRUD operations Apis with 
+
+Common code which support all operations.
