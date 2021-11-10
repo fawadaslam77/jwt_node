@@ -1,2 +1,2 @@
 # jwt_node
-JWT toke base authentication and fast CRUD operations 
+JWT token base authentication for Apis and fast CRUD operations Apis
